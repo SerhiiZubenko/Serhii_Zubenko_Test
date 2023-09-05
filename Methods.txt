@@ -1,0 +1,2 @@
+public void BookingTests.SearchResultTests.CheckChooseCityAndDate(),
+public void BookingTests.SearchResultTests.CheckSearchResultApartment()
